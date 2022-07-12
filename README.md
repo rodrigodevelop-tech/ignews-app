@@ -27,11 +27,12 @@
   stripe listen --forward-to localhost:3000/api/webhooks
 ```
 
-- See the documentation for more information [![stripe](https://shields.io/badge/Stripe-635bff?style=for-the-badge)]("https://stripe.com/docs")
+- See the documentation for more information
+- [![stripe_link](https://shields.io/badge/Stripe-635bff?style=for-the-badge)]("https://stripe.com/docs")
 
 ## 🛠 Skills
 
-![react][react] ![nextjs][nextjs] ![sass][sass] ![faunaDb][faunadb] ![stripe][stripe] ![Github_login][github login]
+![react][react] ![nextjs][nextjs] ![sass][sass] ![faunaDb][faunadb] ![stripe][stripe] ![github][github]
 
 ## 💾 Environment Variables
 
