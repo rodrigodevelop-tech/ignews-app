@@ -28,7 +28,7 @@
 ```
 
 - See the documentation for more information
-  [![stripe_link](https://shields.io/badge/Stripe Documentation-635bff?style=for-the-badge)]("https://stripe.com/docs")
+  [![stripe_link](https://shields.io/badge/Stripe_Documentation-635bff?style=for-the-badge)]("https://stripe.com/docs")
 
 ## 🛠 Skills
 
