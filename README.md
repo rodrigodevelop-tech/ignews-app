@@ -27,8 +27,7 @@
   stripe listen --forward-to localhost:3000/api/webhooks
 ```
 
-- See the documentation for more information
-  [![stripe_link](https://shields.io/badge/Stripe_Documentation-635bff?style=for-the-badge)]("https://stripe.com/docs")
+- See the <a href="https://stripe.com/docs" target="_blank">Stripe Documentation</a> for more information.
 
 ## 🛠 Skills
 
