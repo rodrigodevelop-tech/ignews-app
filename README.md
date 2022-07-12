@@ -50,7 +50,7 @@ To run this project, you will need to add the following environment variables to
 
 ## 🌐 Live Version
 
-[![vercel](https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel&logoColor=white)]("https://ignews-lilac-xi.vercel.app/")
+[![vercel](https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://ignews-lilac-xi.vercel.app/)
 
 ## 🔗 More About Me
 
